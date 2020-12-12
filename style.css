@@ -1,0 +1,447 @@
+/*Navbar starts here*/
+
+.navbar{
+   
+    border: none;
+}
+.navbar-brand{
+    letter-spacing: 2px;
+    text-decoration: none;
+    font-weight: bold;
+    position: relative;
+    top: 0;
+    left: 40%
+}
+.navbar-right{
+    margin-right: 80px;
+    letter-spacing: 1px;
+    font-weight: 800;
+    font-size: 18px;
+}
+.navbar-right i{
+    font-size: 16px;
+}
+
+/*Navbar ends here*/
+body{
+    margin-top: 50px;
+    background-color: antiquewhite;
+    
+}
+/*Home starts here*/
+.ps{
+    background-color: #fff;
+}
+.head{
+    
+    margin-top: 50px;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.cent{
+    display: block;
+   margin: 0 auto;
+    width:  600px;
+    
+}
+
+/*Home ends here*/
+
+/*About starts here*/
+
+.ab{
+    background-color: antiquewhite;
+    padding: 90px 10px;
+    height: 500px;
+}
+.About{
+     background-color: #fff;
+    margin: 0 auto;
+    width: 380px;
+    height: 330px;
+    padding: 20px 0px;
+}
+.heading{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 700;
+    font-family: serif;
+}
+
+.add{
+    padding: 20px 20px;
+    font-size: 15px;
+    text-align: center;
+    margin: 0 auto;
+   }
+
+
+/*About ends here*/
+
+/*Material starts here*/
+
+.material
+{
+    background-color: #fff;
+    padding-top: 50px;
+}
+.mt0{
+    font-size: 35px;
+    text-align: center;
+    margin: 0px auto;
+    font-family: serif;
+    font-weight: 700;
+    padding: 20px;
+}
+.material .container{
+    margin-top: px;
+}
+.material .lefty{
+    float: left;
+    width: 480px;   
+}
+.material .righty{
+    float: right;
+    width: 480px;
+}
+
+/*Material ends here*/
+
+/*Contact starts here*/
+
+.contact{
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+    height: 0px;
+}
+.contact-lefty{
+    float: left;
+    margin: 0;
+    padding: 0px;
+    background-color: #fff;
+    margin-top: 80px;
+    padding: 70px;
+    width: 320px;
+    height: 350px;
+    margin-left: 100px;
+    
+}
+.contact-lefty p{
+    padding: 2px;
+}
+.contact-lefty h3{
+    margin: 0;
+    padding: 0;
+}
+.cont{
+    margin: 0;
+    padding: 0;
+    width: 700px;
+}
+
+.contact-righty{
+    margin: 0;
+    padding: 0;
+    display: block;
+    box-sizing: border-box;
+    background-color: #fff;
+    text-align: center;
+    float: right;
+    margin: 20px;
+    padding: 40px;
+}
+.contact-righty h1{
+    font-family: serif;
+    font-size: 40px;
+}
+form{
+    margin-top: 30px;
+    height: 300px;
+    transition: all 4s ease-in-out;
+}
+#first{
+    width: 240px;
+    background: transparent;
+ 
+    border:none;
+    border-bottom: 1px solid black;
+    color: #777;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+#last{
+    width: 240px;
+    height: 40px;
+    background: transparent;
+    margin-left: 20px;
+    border: none;
+    border-bottom: 1px solid black;
+    color: #777;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+#form-control{
+    width: 500px;
+    background: transparent;
+    
+    border: none;
+    border-bottom: 1px solid black;
+    color: #777;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+#message{
+    width: 500px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+    color: #777;
+    height: 40px;
+    font-size: 18px;
+    margin-bottom: 16px;    
+}
+input{
+    height: 40px;
+}
+.submit{
+   background: transparent;
+    color: #000;
+    width: 200px;
+    padding: 10px;
+}
+
+/*Contact ends here*/
+
+/*Footer starts here*/
+
+footer{
+   height: 80px;
+    width: 100%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    background-color: black;
+}
+footer .pull-right i
+{
+    font-size: 25px;
+    padding: 10px;
+    color: #777;
+}
+
+footer p{
+       padding :30px 40px;
+    color: #777;
+}
+
+/*Footer ends here*/
+
+
+/*login starts here*/
+
+.cont1{
+     width: 550px;
+    height: 470px;
+    background-color: #fff;
+    margin: 90px auto;
+    border: 1px solid black;
+    border-radius: 10px 10px 0 0;
+}
+.cont1 h2{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    font-family: serif;
+    padding: 20px;
+}
+input{
+    padding: 20px;
+}
+#email{
+    text-align: center;
+    margin-left: 50px;
+    width: 450px;
+    height: 50px;
+    font-size: 18px;
+    color: black;
+    border-radius: 15px;
+    background-color: #f5f5f5;
+}
+#word{
+    margin-top: 20px;
+    margin-left: 50px;
+    text-align: center;
+    width: 450px;
+    height: 50px;
+    font-size: 18px;
+    color: #000;
+    border-radius: 15px;
+    background-color: #f5f5f5;
+}
+.forgot{
+    text-align: center;
+    margin-left: 300px;
+    padding: 10px 0px;
+}
+.forgot a{
+    color: #000;
+}
+#remember{
+   margin-left: 70px;
+}
+.cont1 .login{
+    margin-top: 40px;
+    text-align: center;
+    margin-left: 200px;
+    width: 150px;
+    background-color: blue;
+    
+}
+/*login ends here*/
+
+
+/*subject starts here*/
+
+.subject{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: block;
+    background-color: antiquewhite;
+}
+.container{
+    margin-top: 0px;
+    padding: 80px 0;
+}
+
+
+/*row 1st starts here*/
+
+/*1st row 1st colom starts here*/
+.mca{
+    width: 350px;
+    background-color: #cceabb;
+    padding: 20px 0 0;
+    text-align: center;
+    font-size: 17px;
+    margin-left: 80px;
+    border: 1px solid black;
+    float: left;
+    border-radius: 10px 10px 0 0;
+}
+
+.content{
+    background-color: #fff;
+    height: 260px;
+    padding: 3px;
+    margin: 5px 0 0;
+    border: 1px solid black;
+}
+/*1st row 1st colom ends here */
+
+/*1st row 2nd colom starts here */
+.bca{
+    width: 350px;
+    background-color: lightblue;
+    padding: 20px 0 0;
+    text-align: center;
+    font-size: 17px;
+    margin-right: 80px;
+    margin-top: 0px;
+    border: 1px solid black;
+    float: right;
+    border-radius: 10px 10px 0 0;
+}
+.row{
+    text-align: center;
+    margin: 0px auto;
+}
+/*1st row 2nd colom ends here*/
+
+
+/*2nd row starts here*/
+
+/*2nd row 1st colom starts here*/
+.mtech{
+    width: 350px;
+    background-color: #CC99CC;
+    padding: 20px 0 0;
+    text-align: center;
+    font-size: 17px;
+    margin-left: 80px;
+    margin-top: 20px;
+    border: 1px solid black;
+    float: left;
+    border-radius: 10px 10px 0 0;
+}
+
+.content{
+    background-color: #fff;
+    height: 260px;
+    padding: 3px;
+    margin: 5px 0 0;
+    border: 1px solid black;
+}
+/*2nd row 1st colom ends here*/
+
+/*2nd row 2nd colom starts here*/
+.btech{
+    width: 350px;
+    background-color: coral;
+    padding: 20px 0 0;
+    text-align: center;
+    font-size: 17px;
+    margin-right: 80px;
+    margin-top: 20px;
+    border: 1px solid black;
+    float: right;
+    border-radius: 10px 10px 0 0;
+}
+/*2nd row 2nd colom ends here*/
+
+
+/*3rd row starts here*/
+
+/*3rd row 1st colom starts here*/
+.msc{
+    width: 350px;
+    background-color: #FF9966;
+    padding: 20px 0 0;
+    text-align: center;
+    font-size: 17px;
+    margin-left: 80px;
+    margin-top: 20px;
+    border: 1px solid black;
+    float: left;
+    border-radius: 10px 10px 0 0;
+}
+
+.content{
+    background-color: #fff;
+    height: 260px;
+    padding: 3px;
+    margin: 5px 0 0;
+    border: 1px solid black;
+}
+/*3rd row 1st colom ends here*/
+
+/*3rd row 2nd colom starts here*/
+.bsc{
+    width: 350px;
+    background-color: #FFCC66;
+    padding: 20px 0 0;
+    text-align: center;
+    font-size: 17px;
+    margin-right: 80px;
+    margin-top: 20px;
+    border: 1px solid black;
+    float: right;
+    border-radius: 10px 10px 0 0;
+}
+/*3rd row 2nd colom ends here*/
+/*3rd row ends here*/
+
+
+/*subject ends here*/

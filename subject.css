@@ -1,0 +1,161 @@
+.navbar{
+   
+    border: none;
+}
+.navbar-brand{
+    letter-spacing: 2px;
+    text-decoration: none;
+    font-weight: bold;
+    position: relative;
+    top: 0;
+    left: 40%
+}
+.navbar-right{
+    margin-right: 80px;
+    letter-spacing: 1px;
+    font-weight: 800;
+    font-size: 18px;
+}
+.navbar-right i{
+    font-size: 16px;
+}
+
+
+.subject{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: block;
+    background-color: antiquewhite;
+}
+.container{
+    margin-top: 50px;
+    padding: 100px 0;
+}
+
+
+/*row 1st starts here*/
+
+/*1st row 1st colom starts here*/
+.mca{
+    width: 350px;
+    background-color: #cceabb;
+    padding: 20px 0 0;
+    text-align: center;
+    font-size: 17px;
+    margin-left: 80px;
+    border: 1px solid black;
+    float: left;
+    border-radius: 10px 10px 0 0;
+}
+
+.content{
+    background-color: #fff;
+    height: 260px;
+    padding: 3px;
+    margin: 5px 0 0;
+    border: 1px solid black;
+}
+/*1st row 1st colom ends here */
+
+/*1st row 2nd colom starts here */
+.bca{
+    width: 350px;
+    background-color: lightblue;
+    padding: 20px 0 0;
+    text-align: center;
+    font-size: 17px;
+    margin-right: 80px;
+    margin-top: 0px;
+    border: 1px solid black;
+    float: right;
+    border-radius: 10px 10px 0 0;
+}
+.row{
+    text-align: center;
+    margin: 0px auto;
+}
+/*1st row 2nd colom ends here*/
+
+
+/*2nd row starts here*/
+
+/*2nd row 1st colom starts here*/
+.mtech{
+    width: 350px;
+    background-color: #CC99CC;
+    padding: 20px 0 0;
+    text-align: center;
+    font-size: 17px;
+    margin-left: 80px;
+    margin-top: 20px;
+    border: 1px solid black;
+    float: left;
+    border-radius: 10px 10px 0 0;
+}
+
+.content{
+    background-color: #fff;
+    height: 260px;
+    padding: 3px;
+    margin: 5px 0 0;
+    border: 1px solid black;
+}
+/*2nd row 1st colom ends here*/
+
+/*2nd row 2nd colom starts here*/
+.btech{
+    width: 350px;
+    background-color: coral;
+    padding: 20px 0 0;
+    text-align: center;
+    font-size: 17px;
+    margin-right: 80px;
+    margin-top: 20px;
+    border: 1px solid black;
+    float: right;
+    border-radius: 10px 10px 0 0;
+}
+/*2nd row 2nd colom ends here*/
+
+
+/*3rd row starts here*/
+
+/*3rd row 1st colom starts here*/
+.msc{
+    width: 350px;
+    background-color: #FF9966;
+    padding: 20px 0 0;
+    text-align: center;
+    font-size: 17px;
+    margin-left: 80px;
+    margin-top: 20px;
+    border: 1px solid black;
+    float: left;
+    border-radius: 10px 10px 0 0;
+}
+
+.content{
+    background-color: #fff;
+    height: 260px;
+    padding: 3px;
+    margin: 5px 0 0;
+    border: 1px solid black;
+}
+/*3rd row 1st colom ends here*/
+
+/*3rd row 2nd colom starts here*/
+.bsc{
+    width: 350px;
+    background-color: #FFCC66;
+    padding: 20px 0 0;
+    text-align: center;
+    font-size: 17px;
+    margin-right: 80px;
+    margin-top: 20px;
+    border: 1px solid black;
+    float: right;
+    border-radius: 10px 10px 0 0;
+}
+/*3rd row 2nd colom ends here*/
+/*3rd row ends here*/
